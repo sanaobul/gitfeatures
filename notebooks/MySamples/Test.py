@@ -16,12 +16,20 @@ print (y)
 #  print (y)
 #
 #while True:
-
 #  myfunc()
 
 # COMMAND ----------
 
-# this is a new line added
-=======
-#  myfunc()
+#this is bad
 
+# COMMAND ----------
+
+#this is bad
+
+# COMMAND ----------
+
+g
+
+# COMMAND ----------
+
+#this is bad
